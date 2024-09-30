@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-<img src="https://banner2.cleanpng.com/20180607/ylh/kisspng-arizona-state-university-west-campus-arizona-state-letter-gold-5b19fc1963e347.2024740115284295934092.jpg" width="40" height="40"/>I am a senior Computer Science undergraduate studying ASU. Some things I'm doing:
+I am a senior Computer Science undergraduate studying <img src="https://banner2.cleanpng.com/20180607/ylh/kisspng-arizona-state-university-west-campus-arizona-state-letter-gold-5b19fc1963e347.2024740115284295934092.jpg" title="ASU" alt="ASU" width="44" height="30"/>. Some things I'm doing:
 
 - :telescope: I’m working as a Software Engineer in a team for a NASA-sponsored capstone project set to release in May 2025
 
