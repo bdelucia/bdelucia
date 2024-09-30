@@ -10,7 +10,7 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 - :seedling: Beginning to learn Full Stack Development independently.
 
-- :zap: In my free time, I solve problems and make fun gizmos with my Ender 5 Pro
+- :zap: In my free time, I solve problems and make fun gizmos with my Ender 5 Pro 3D Printer
 
 ### :hammer_and_wrench: Languages and Tools I use:
 <div>
