@@ -1,6 +1,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bdelucia&theme=sunset-gradient)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdelucia&layout=compact&theme=sunset-gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdelucia&layout=compact&theme=ambient-gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :man_technologist: About Me :
 
