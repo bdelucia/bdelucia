@@ -22,3 +22,6 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=FunFactUsingChatGPTAPI)](https://github.com/bdelucia/FunFactUsingChatGPTAPI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger)](https://github.com/bdelucia/EffortLogger)
+
