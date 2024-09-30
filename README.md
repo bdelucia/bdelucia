@@ -8,6 +8,10 @@
   Welcome to my GitHub Page!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bdelucia&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### :man_technologist: About Me :
 I am a senior Computer Science undergraduate at ASU <img src="https://media2.giphy.com/media/kiIIqKX9tXGoLAhz8R/giphy.gif?cid=6c09b952err6kqfnjffregr3x70t2isdvbm2f416jbaefkw6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 - :telescope: I’m working as a Software Engineer in a team for a NASA-sponsored capstone project set to release in May 2025
