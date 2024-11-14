@@ -1,6 +1,3 @@
-### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bdelucia&theme=github-dark-dimmed)](https://git.io/streak-stats)
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/bdelucia?theme=transparent)](https://leetcode.com/bdelucia)
 
 ### :man_technologist: About Me:
