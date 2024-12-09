@@ -8,9 +8,9 @@
 
 <div align=center>
   
-[![Gmail](https://img.shields.io/badge/-gmail-446078?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bdelucia@asu.edu)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-linkedin-446078?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bdeluciajr)&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-446078?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/168596902303105024)&nbsp;
+[![Gmail](https://img.shields.io/badge/-gmail-ec493c?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bdelucia@asu.edu)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bdeluciajr)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/168596902303105024)&nbsp;
 
 </div>
 
@@ -36,62 +36,49 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 - 🚀 &nbsp; Gain experience in developing full-stack applications using **React** and **Node.js**.
 
-- 🌐 &nbsp; Complete the **JavaScript** path on The Odin Project
+- 🌐 &nbsp; Learn about cloud computing services like AWS
 
-- 🎨 &nbsp; 
+- 🎨 &nbsp; Improve the UI/UX of my existing websites
 
-- ⚡ &nbsp; 
+- ⚡ &nbsp; Finish The Odin Project's **JavaScript** path by the end of 2025
 
 <br>
 
 ## 🚀 Future Endeavors:
 
-- 🌟 &nbsp; 
+- 🌟 &nbsp; Land a full-stack developer job
 
-- 🔒 &nbsp;
+- 🔒 &nbsp; Dive deeper into web security to create safer websites for real-world applications
 
-- 🛠️ &nbsp; 
+- 🛠️ &nbsp; Create a online full-stack portfolio showing all of my projects
 
-- 🤝 &nbsp; 
+- 🤝 &nbsp; Actively participate in more open-source programs and communities.
 
 <br>
 
 ## 📈 Achievements
 
-- 🎉 &nbsp; 
+- 🎉 &nbsp; Setup a Raspberry Pi 5 with PiHole to disable ads on my entire Wi-Fi network
 
-- 🤝 &nbsp; 
+- 🤝 &nbsp; Created my own Arch Linux rice, with a predefined palette and customized keybinds
 
-- 🏅 &nbsp; 
-
-- 🌟 &nbsp; 
+- 🏅 &nbsp; Studying Computer Science at ASU, graduating May 2025
 
 <br>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-
 ## 📊 Github Stats
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/overview.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/languages.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bdelucia&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdelucia&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
-</picture> &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bdelucia&border_radius=7&card_width=235&card_height=214&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999&hide_total_contributions=true&hide_current_streak=true">
-  <img src="https://streak-stats.demolab.com/?user=bdelucia&border_radius=7&card_width=235&card_height=190&sideNums=3483ed&sideLabels=555&border=e1e4e8&dates=777&hide_total_contributions=true&hide_current_streak=true">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/overview.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/bdelucia/github-stats/master/generated/languages.svg">
+  </picture>
 </div>
 
 <br>
@@ -99,7 +86,6 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br>
-
 
 ## 🛠️ Skills
 
@@ -130,4 +116,3 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-calculator)](https://github.com/bdelucia/odin-calculator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger)](https://github.com/bdelucia/EffortLogger)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=countingbucketradixsorts)](https://github.com/bdelucia/countingbucketradixsorts)
-
