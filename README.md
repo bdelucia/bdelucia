@@ -1,3 +1,6 @@
+[![Gmail](https://img.shields.io/badge/-gmail-446078?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bdelucia@asu.edu)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-446078?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bdeluciajr)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-446078?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/168596902303105024)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdelucia&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 ### :man_technologist: About Me:
 
