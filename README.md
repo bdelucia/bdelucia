@@ -112,5 +112,5 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 ### 📁 Notable (public) repos: 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=FunFactUsingChatGPTAPI)](https://github.com/bdelucia/FunFactUsingChatGPTAPI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-calculator)](https://github.com/bdelucia/odin-calculator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger)](https://github.com/bdelucia/EffortLogger)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=MealPlanMaker)](https://github.com/bdelucia/MealPlanMaker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger)](https://github.com/bdelucia/EffortLogger)
