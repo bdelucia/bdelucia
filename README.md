@@ -44,11 +44,11 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 ## 🚀 Future Endeavors:
 
-- 🌟 &nbsp; Land a full-stack developer job
+- 🌟 &nbsp; Land a software developer job
 
 - 🔒 &nbsp; Dive deeper into web security to create safer websites for real-world applications
 
-- 🛠️ &nbsp; Create a online full-stack portfolio showing all of my projects
+- 🛠️ &nbsp; Create a online portfolio webpage showing all of my projects
 
 - 🤝 &nbsp; Actively participate in more open-source programs and communities.
 
