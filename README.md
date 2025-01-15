@@ -24,9 +24,9 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 - :telescope: I’m working as a Software Engineer in a team for a NASA-sponsored capstone project set to release in May 2025
 
-- :seedling: Beginning to learn Full Stack Development independently.
+- :seedling: Learning Full Stack Development independently.
 
-- :zap: In my free time, I solve problems and make fun gizmos with my Ender 5 Pro 3D Printer
+- :zap: In my free time, I ride my electric unicycle, play video games, and cook Italian food
 
 <br>
 
@@ -48,7 +48,7 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 - 🔒 &nbsp; Dive deeper into web security to create safer websites for real-world applications
 
-- 🛠️ &nbsp; Create a online portfolio webpage showing all of my projects
+- 🛠️ &nbsp; Create an online portfolio webpage showing all of my projects
 
 - 🤝 &nbsp; Actively participate in more open-source programs and communities.
 
@@ -56,7 +56,7 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 ## 📈 Achievements
 
-- 🎉 &nbsp; Setup a Raspberry Pi 5 with PiHole to disable ads on my entire Wi-Fi network
+- 🎉 &nbsp; Setup a Raspberry Pi 5 with Home Assistant to automate and monitor our home's power consumption, wrote scripts to turn off devices after a certain amount of time, length depending on "APS high-use hours"
 
 - 🤝 &nbsp; Created my own Arch Linux rice, with a predefined palette and customized keybinds
 
