@@ -22,11 +22,13 @@
 
 I am a senior Computer Science undergraduate studying at <img src="https://banner2.cleanpng.com/20180607/ylh/kisspng-arizona-state-university-west-campus-arizona-state-letter-gold-5b19fc1963e347.2024740115284295934092.jpg" title="ASU" alt="ASU" width="44" height="30"/>. Some things I'm doing:
 
-- :telescope: I’m working as a Software Engineer in a team for a NASA-sponsored capstone project set to release in May 2025
+- :telescope: I’m contributing in an Agile team for a NASA-sponsored Unity WebGL game set to release in May 2025
 
-- :seedling: Learning Full Stack Development independently.
+- 🤖: I have a contract job at Outlier AI. I'm training various LLMs from multiple companies to produce more coherent/accurate responses from them.  
 
-- :zap: In my free time, I ride my electric unicycle, play video games, and cook Italian food
+- :seedling: Learning Full Stack development independently via The Odin Project.
+
+- :zap: In my free time, I ride my electric unicycle, play video games, and cook Italian food. 
 
 <br>
 
@@ -44,13 +46,15 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 ## 🚀 Future Endeavors:
 
-- 🌟 &nbsp; Land a software developer job
+- 🌟 &nbsp; Secure a full-time role as a software or website developer, where I can apply my technical skills to create innovative solutions and contribute to impactful projects.
 
-- 🔒 &nbsp; Dive deeper into web security to create safer websites for real-world applications
+- 🔒 &nbsp; Expand my home automation setup by integrating advanced IoT devices and creating custom scripts to optimize daily routines, security, and energy efficiency.
 
-- 🛠️ &nbsp; Create an online portfolio webpage showing all of my projects
+- 🛠️ &nbsp; Develop a comprehensive online portfolio website showcasing my completed projects, technical expertise, and development journey, including blogs, interactive demos, and detailed case studies.
 
-- 🤝 &nbsp; Actively participate in more open-source programs and communities.
+- 🤝 &nbsp; Become an active contributor to open-source projects, collaborating with global developer communities to enhance meaningful tools and learn from industry-leading practices.
+
+- 💳 &nbsp; Achieve financial freedom by creating a strategic budget and aggressively paying down debts, with the goal of becoming completely debt-free by the end of 2026.
 
 <br>
 
