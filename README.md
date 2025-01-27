@@ -56,9 +56,9 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 ## 📈 Achievements
 
-- 🎉 &nbsp; Setup a Raspberry Pi 5 with Home Assistant to automate and monitor our home's power consumption, wrote scripts to turn off devices after a certain amount of time, length depending on "APS high-use hours"
+- 🥧 &nbsp; Set up a Raspberry Pi 5 with Home Assistant to automate and monitor our home's power and water consumption. Also configured the Pi as a static DNS server that blocks malicious/unnecessary router queries (which account for about 20% of all queries) 
 
-- 🤝 &nbsp; Created my own Arch Linux rice, with a predefined palette and customized keybinds
+- 🤝 &nbsp; Created my own Arch Linux rice, with a predefined palette and customized key binds. Check out my Hyprland Config files!
 
 - 🏅 &nbsp; Studying Computer Science at ASU, graduating May 2025
 
