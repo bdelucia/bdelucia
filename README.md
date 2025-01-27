@@ -64,7 +64,9 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 - 🤝 &nbsp; Created my own Arch Linux rice, with a predefined palette and customized key binds. Check out my Hyprland Config files!
 
-- 🏅 &nbsp; Studying Computer Science at ASU, graduating May 2025
+- 🌍 &nbsp; Contributed to the creation of innovative AI solutions, training LLMs to effectively handle real-world problems such as customer support, content generation, decision-making systems, transcript summarizers, etc.
+
+- 🏅 &nbsp; Studying Computer Science at Arizona State University, graduating May 2025
 
 <br>
 
