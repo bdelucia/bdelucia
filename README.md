@@ -32,9 +32,9 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 ## 🏆 Goals:
 
-- 🚀 &nbsp; Gain experience in developing full-stack applications using **React** and **Node.js**.
+- 🚀 &nbsp; Gain experience in developing full-stack applications using technologies like **React,** **SQL** and **Node.js**.
 
-- 🌐 &nbsp; Learn about cloud computing services like AWS
+- 🌐 &nbsp; Learn and utilize cloud computing services like AWS
 
 - 🎨 &nbsp; Improve the UI/UX of my existing websites
 
