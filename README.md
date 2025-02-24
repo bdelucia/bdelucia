@@ -44,32 +44,6 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 <br>
 
-## 🚀 Future Endeavors:
-
-- 🌟 &nbsp; Secure a full-time role as a software or website developer, where I can apply my technical skills to create innovative solutions and contribute to impactful projects.
-
-- 🔒 &nbsp; Expand my home automation setup by integrating advanced IoT devices and creating custom scripts to optimize daily routines, security, and energy efficiency.
-
-- 🛠️ &nbsp; Develop a comprehensive online portfolio website showcasing my completed projects, technical expertise, and development journey, including blogs, interactive demos, and detailed case studies.
-
-- 🤝 &nbsp; Become an active contributor to open-source projects, collaborating with global developer communities to enhance meaningful tools and learn from industry-leading practices.
-
-- 💳 &nbsp; Achieve financial freedom by creating a strategic budget and aggressively paying down debts, with the goal of becoming completely debt-free by the end of 2026.
-
-<br>
-
-## 📈 Achievements
-
-- 🥧 &nbsp; Set up a Raspberry Pi 5 with Home Assistant to automate and monitor our home's power and water consumption. Also configured the Pi as a static DNS server that blocks malicious/unnecessary router queries (which account for about 20% of all queries) 
-
-- 🤝 &nbsp; Created my own Arch Linux rice, with a predefined palette and customized key binds. Check out my Hyprland Config files!
-
-- 🌍 &nbsp; Contributed to the creation of innovative AI solutions, training LLMs to effectively handle real-world problems such as customer support, content generation, decision-making systems, transcript summarizers, etc.
-
-- 🏅 &nbsp; Studying Computer Science at Arizona State University, graduating May 2025
-
-<br>
-
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📊 Github Stats
