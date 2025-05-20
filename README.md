@@ -20,15 +20,11 @@
 
 ### :man_technologist: About Me:
 
-I am a senior Computer Science undergraduate studying at <img src="https://banner2.cleanpng.com/20180607/ylh/kisspng-arizona-state-university-west-campus-arizona-state-letter-gold-5b19fc1963e347.2024740115284295934092.jpg" title="ASU" alt="ASU" width="44" height="30"/>. Some things I'm doing:
-
-- :telescope: I’m contributing in an Agile team for a NASA-sponsored Unity WebGL game set to release in May 2025
-
-- 🤖: I have a contract job at Outlier AI. I'm training various LLMs from multiple companies to produce more coherent/accurate responses from them.  
+I am a senior Computer Science undergraduate studying at <img src="https://banner2.cleanpng.com/20180607/ylh/kisspng-arizona-state-university-west-campus-arizona-state-letter-gold-5b19fc1963e347.2024740115284295934092.jpg" title="ASU" alt="ASU" width="44" height="30"/>. Some things I'm doing: 
 
 - :seedling: Learning Full Stack development independently via The Odin Project.
 
-- :zap: In my free time, I ride my electric unicycle, play video games, and cook Italian food. 
+- :zap: In my free time, I ride my electric unicycle, play video games, and cook food. 
 
 <br>
 
