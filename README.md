@@ -8,9 +8,9 @@
 
 <div align=center>
   
-[![Gmail](https://img.shields.io/badge/-gmail-ec493c?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bdelucia@asu.edu)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bdeluciajr)&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/168596902303105024)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bdelucia@asu.edu)&nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bdeluciajr)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/168596902303105024)&nbsp;
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me:
 
-I have graduated with a B.S. in Computer Science (Software Engineering) from <img src="https://banner2.cleanpng.com/20180607/ylh/kisspng-arizona-state-university-west-campus-arizona-state-letter-gold-5b19fc1963e347.2024740115284295934092.jpg" title="ASU" alt="ASU" width="44" height="30"/> during Spring 2025. Some things I'm doing: 
+I have recently graduated with a B.S. in Computer Science (Software Engineering) from Arizona State University. Some things I'm doing: 
 
 - :seedling: Learning Full Stack development independently via The Odin Project.
 
