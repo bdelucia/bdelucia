@@ -87,6 +87,8 @@ I have graduated with a B.S. in Computer Science (Software Engineering) from <im
 
 ### 📁 Notable (public) repos: 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=FunFactUsingChatGPTAPI)](https://github.com/bdelucia/FunFactUsingChatGPTAPI)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-calculator)](https://github.com/bdelucia/odin-calculator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-cv-application-with-tailwind)](https://github.com/bdelucia/odin-cv-application-with-tailwind)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-memory-game)](https://github.com/bdelucia/odin-memory-game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-battleship)](https://github.com/bdelucia/odin-battleship)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=MealPlanMaker)](https://github.com/bdelucia/MealPlanMaker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger)](https://github.com/bdelucia/EffortLogger)
