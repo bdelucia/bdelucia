@@ -24,7 +24,7 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 - :seedling: Learning Full Stack development independently via The Odin Project.
 
-- :zap: In my free time, I ride my electric unicycle, play video games, and cook food. 
+- :zap: In my free time, I ride my electric unicycle, currently riding Leaperkim's Veteran Sherman 
 
 <br>
 
