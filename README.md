@@ -24,7 +24,9 @@ I am a senior Computer Science undergraduate studying at <img src="https://banne
 
 - :seedling: Learning Full Stack development independently via The Odin Project.
 
-- :zap: In my free time, I ride my electric unicycle, currently riding Leaperkim's Veteran Sherman 
+- :zap: In my free time, I ride my electric unicycle, the Leaperkim Veteran Sherman
+- 📡 Working at OneCall as an IT Intern (Summer 2025)
+- 👀 Looking for full-time employment
 
 <br>
 
