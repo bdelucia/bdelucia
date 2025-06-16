@@ -99,3 +99,5 @@ I have recently graduated with a B.S. in Computer Science (Software Engineering)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-battleship)](https://github.com/bdelucia/odin-battleship)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=MealPlanMaker)](https://github.com/bdelucia/MealPlanMaker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger)](https://github.com/bdelucia/EffortLogger)
+
+![](https://hit.yhype.me/github/profile?account_id=72625310)
