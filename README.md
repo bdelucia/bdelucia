@@ -30,9 +30,7 @@
 I have recently graduated with a B.S. in Computer Science (Software Engineering) from Arizona State University. Some things I'm doing: 
 
 - :seedling: Learning Full Stack development independently via The Odin Project.
-
-- :zap: In my free time, I ride my electric unicycle, the Leaperkim Veteran Sherman
-- 📡 Working at OneCall as an IT Intern (Summer 2025)
+- :zap: In my free time, I like riding my electric unicycle or gaming
 - 👀 Looking for full-time employment
 
 <br>
