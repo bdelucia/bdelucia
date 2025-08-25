@@ -91,7 +91,7 @@ I have recently graduated with a B.S. in Computer Science (Software Engineering)
 <br>
 
 ### 📁 Notable (public) repos: 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=FunFactUsingChatGPTAPI)](https://github.com/bdelucia/FunFactUsingChatGPTAPI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=job-board)](https://github.com/bdelucia/job-board)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-shopping-cart)](https://github.com/bdelucia/odin-shopping-cart)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-memory-game)](https://github.com/bdelucia/odin-memory-game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-battleship)](https://github.com/bdelucia/odin-battleship)
