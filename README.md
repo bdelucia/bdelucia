@@ -25,12 +25,12 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### :man_technologist: About Me:
+### :man_technologist: About Me: 
 
-I have recently graduated with a B.S. in Computer Science (Software Engineering) from Arizona State University. Some things I'm doing: 
+- :seedling: I have recently graduated with a B.S. in Computer Science (Software Engineering) from Arizona State University
 
-- :seedling: Learning Full Stack development independently via The Odin Project.
-- :zap: In my free time, I like riding my electric unicycle or gaming
+- :zap: I ride an electric unicycle
+  
 - 👀 Looking for full-time employment
 
 <br>
@@ -91,11 +91,28 @@ I have recently graduated with a B.S. in Computer Science (Software Engineering)
 <br>
 
 ### 📁 Notable (public) repos: 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=job-board)](https://github.com/bdelucia/job-board)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-shopping-cart)](https://github.com/bdelucia/odin-shopping-cart)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-memory-game)](https://github.com/bdelucia/odin-memory-game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-battleship)](https://github.com/bdelucia/odin-battleship)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=MealPlanMaker)](https://github.com/bdelucia/MealPlanMaker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger)](https://github.com/bdelucia/EffortLogger)
+
+<div align="center">
+
+  <a href="https://github.com/bdelucia/job-board">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=job-board" />
+  </a>
+  <a href="https://github.com/bdelucia/odin-shopping-cart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-shopping-cart" />
+  </a>
+  <a href="https://github.com/bdelucia/odin-memory-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-memory-game" />
+  </a>
+  <a href="https://github.com/bdelucia/odin-battleship">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=odin-battleship" />
+  </a>
+  <a href="https://github.com/bdelucia/MealPlanMaker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=MealPlanMaker" />
+  </a>
+  <a href="https://github.com/bdelucia/EffortLogger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdelucia&repo=EffortLogger" />
+  </a>
+
+</div>
 
 ![](https://hit.yhype.me/github/profile?account_id=72625310)
