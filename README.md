@@ -29,17 +29,17 @@
 
 - :seedling: I have recently graduated with a B.S. in Computer Science (Software Engineering) from Arizona State University
 
-- :zap: I ride an electric unicycle
+- :zap: I ride an electric unicycle, group rides in Tempe
   
-- 👀 Looking for full-time employment
+- 🍕 
 
 <br>
 
 ## 🏆 Goals:
 
-- 🚀 &nbsp; Gain experience in developing full-stack applications using technologies like **React,** **SQL** and **Node.js**.
+- 🚀 &nbsp; Gain experience in developing full-stack applications using technologies like **React,** **Svelte** and **Figma**.
 
-- 🌐 &nbsp; Learn and utilize cloud computing services like AWS
+~~- 🌐 &nbsp; Learn and utilize cloud computing services like AWS~~
 
 - 🎨 &nbsp; Improve the UI/UX of my existing websites
 
